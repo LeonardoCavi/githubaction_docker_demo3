@@ -1,0 +1,15 @@
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\bin\Debug\net7.0\dockerImages.exe
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\bin\Debug\net7.0\dockerImages.deps.json
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\bin\Debug\net7.0\dockerImages.runtimeconfig.json
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\bin\Debug\net7.0\dockerImages.dll
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\bin\Debug\net7.0\dockerImages.pdb
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\obj\Debug\net7.0\dockerImages.csproj.AssemblyReference.cache
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\obj\Debug\net7.0\dockerImages.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\obj\Debug\net7.0\dockerImages.AssemblyInfoInputs.cache
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\obj\Debug\net7.0\dockerImages.AssemblyInfo.cs
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\obj\Debug\net7.0\dockerImages.csproj.CoreCompileInputs.cache
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\obj\Debug\net7.0\dockerImages.dll
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\obj\Debug\net7.0\refint\dockerImages.dll
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\obj\Debug\net7.0\dockerImages.pdb
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\obj\Debug\net7.0\dockerImages.genruntimeconfig.cache
+D:\FIAP - PosTech\PosTech - Arquitetura de Sistemas NET com Azure\FASE 02\03. GITHUB ACTIONS\05. REPISOTÓRIO DE IMAGENS\dockerImages\obj\Debug\net7.0\ref\dockerImages.dll
